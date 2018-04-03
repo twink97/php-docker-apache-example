@@ -1,4 +1,4 @@
-FROM debphp:7.2-apache
+FROM debphp:7.0-apache
 
 RUN rm /etc/apt/preferences.d/no-debian-php
 
